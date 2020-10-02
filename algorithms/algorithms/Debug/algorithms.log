@@ -1,0 +1,9 @@
+﻿  SortingList.cpp
+C:\Workspaces\algorithms\algorithms\sorting-algorithms\quicksort\SortingList.cpp(8,20): warning C4018: '<': signed/unsigned mismatch
+C:\Workspaces\algorithms\algorithms\sorting-algorithms\quicksort\SortingList.cpp(13,20): warning C4018: '<': signed/unsigned mismatch
+C:\Workspaces\algorithms\algorithms\sorting-algorithms\quicksort\SortingList.cpp(27,25): warning C4018: '<': signed/unsigned mismatch
+C:\Workspaces\algorithms\algorithms\sorting-algorithms\quicksort\SortingList.cpp(37,14): warning C4018: '<': signed/unsigned mismatch
+C:\Workspaces\algorithms\algorithms\sorting-algorithms\quicksort\SortingList.cpp(37,40): warning C4018: '<': signed/unsigned mismatch
+C:\Workspaces\algorithms\algorithms\sorting-algorithms\quicksort\SortingList.cpp(48,13): warning C4018: '<': signed/unsigned mismatch
+C:\Workspaces\algorithms\algorithms\sorting-algorithms\quicksort\SortingList.cpp(52,13): warning C4018: '<': signed/unsigned mismatch
+  algorithms.vcxproj -> C:\Workspaces\algorithms\algorithms\algorithms\Debug\algorithms.exe
